@@ -37,7 +37,9 @@ with open('./data/wiktionary_codes.csv', 'r') as codes:
         local_etyms = []
         tag = ""
         for row in csv.DictReader(file):
-            if row['reltype'] in types and row['related_lang'] in wk_codes and row['lang'] in wk_codes:
+            if row['reltype'] in types and\
+                (row['related_lang'] in wk_codes and row['lang'] in wk_codes) and\
+                (not wk_codes[row['related_lang']].startswith('#') and not wk_codes[row['lang']].startswith('#')):
                 curr_tag = f"{row['lang']}-{row['term']}"
 
                 if curr_tag != tag:
