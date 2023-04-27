@@ -7538,32 +7538,32 @@ zwa,Zay
 zyp,Zyphe
 zza,Zazaki
 zzj,Zuojiang Zhuang
-aav-khs-pro,#Proto-Khasian
-aav-nic-pro,#Proto-Nicobarese
-aav-pkl-pro,#Proto-Pnar-Khasi-Lyngngam
+aav-khs-pro,Proto-Khasian
+aav-nic-pro,Proto-Nicobarese
+aav-pkl-pro,Proto-Pnar-Khasi-Lyngngam
 aav-pro,#Proto-Austroasiatic
 afa-pro,#Proto-Afroasiatic
 alg-aga,Agawam
-alg-pro,#Proto-Algonquian
+alg-pro,Proto-Algonquian
 alv-ama,Amasi
 alv-bgu,Baïnounk Gubëeher
-alv-bua-pro,#Proto-Bua
-alv-cng-pro,#Proto-Cangin
-alv-edo-pro,#Proto-Edoid
-alv-fli-pro,#Proto-Fali
-alv-gbe-pro,#Proto-Gbe
-alv-gng-pro,#Proto-Guang
-alv-gtm-pro,#Proto-Central Togo
+alv-bua-pro,Proto-Bua
+alv-cng-pro,Proto-Cangin
+alv-edo-pro,Proto-Edoid
+alv-fli-pro,Proto-Fali
+alv-gbe-pro,Proto-Gbe
+alv-gng-pro,Proto-Guang
+alv-gtm-pro,Proto-Central Togo
 alv-gwa,Gwara
-alv-hei-pro,#Proto-Heiban
-alv-igb-pro,#Proto-Igboid
-alv-kwa-pro,#Proto-Kwa
-alv-mum-pro,#Proto-Mumuye
-alv-nup-pro,#Proto-Nupoid
-alv-pro,#Proto-Atlantic-Congo
-alv-yor-pro,#Proto-Yoruboid
-apa-pro,#Proto-Apachean
-aql-pro,#Proto-Algic
+alv-hei-pro,Proto-Heiban
+alv-igb-pro,Proto-Igboid
+alv-kwa-pro,Proto-Kwa
+alv-mum-pro,Proto-Mumuye
+alv-nup-pro,Proto-Nupoid
+alv-pro,Proto-Atlantic-Congo
+alv-yor-pro,Proto-Yoruboid
+apa-pro,Proto-Apachean
+aql-pro,Proto-Algic
 art-blk,Bolak
 art-bsp,Black Speech
 art-com,Communicationssprache
@@ -7578,61 +7578,61 @@ art-nox,Noxilo
 art-top,Toki Pona
 art-una,Unas
 ath-nic,Nicola
-ath-pro,#Proto-Athabaskan
-auf-pro,#Proto-Arawa
+ath-pro,Proto-Athabaskan
+auf-pro,Proto-Arawa
 aus-alu,Alungul
 aus-and,Andjingith
 aus-ang,Angkula
-aus-arn-pro,#Proto-Arnhem
+aus-arn-pro,Proto-Arnhem
 aus-bra,Barranbinya
 aus-brm,Barunggam
-aus-cww-pro,#Proto-Central New South Wales
-aus-dal-pro,#Proto-Daly
+aus-cww-pro,Proto-Central New South Wales
+aus-dal-pro,Proto-Daly
 aus-guw,Guwar
 aus-lsw,Little Swanport
 aus-mbi,Mbiywom
 aus-ngk,Ngkoth
-aus-nyu-pro,#Proto-Nyulnyulan
-aus-pam-pro,#Proto-Pama-Nyungan
+aus-nyu-pro,Proto-Nyulnyulan
+aus-pam-pro,Proto-Pama-Nyungan
 aus-tul,Tulua
 aus-uwi,Uwinymil
-aus-wdj-pro,#Proto-Iwaidjan
+aus-wdj-pro,Proto-Iwaidjan
 aus-won,Wong-gie
 aus-wul,Wulguru
 aus-ynk,Yangkaal
 awd-ama,Amarizana
-awd-amc-pro,#Proto-Amuesha-Chamicuro
+awd-amc-pro,Proto-Amuesha-Chamicuro
 awd-ana,Anauyá
 awd-apo,Apolista
 awd-cav,Cavere
 awd-gnu,Guinau
 awd-kar,Cariay
 awd-kaw,Kawishana
-awd-kmp-pro,#Proto-Kampa
+awd-kmp-pro,Proto-Kampa
 awd-kus,Kustenau
 awd-man,Manao
 awd-mar,Marawan
 awd-mpr,Maypure
 awd-mrt,Mariaté
-awd-nwk-pro,#Proto-Nawiki
+awd-nwk-pro,Proto-Nawiki
 awd-pai,Paikoneka
 awd-pas,Passé
-awd-pro,#Proto-Arawak
-awd-prw-pro,#Proto-Paresi-Waura
+awd-pro,Proto-Arawak
+awd-prw-pro,Proto-Paresi-Waura
 awd-she,Shebayo
-awd-taa-pro,#Proto-Ta-Arawak
+awd-taa-pro,Proto-Ta-Arawak
 awd-wai,Wainumá
 awd-yum,Yumana
 azc-caz,Cazcan
-azc-cup-pro,#Proto-Cupan
+azc-cup-pro,Proto-Cupan
 azc-ktn,Kitanemuk
-azc-nah-pro,#Proto-Nahuan
-azc-num-pro,#Proto-Numic
-azc-pro,#Proto-Uto-Aztecan
-azc-tak-pro,#Proto-Takic
+azc-nah-pro,Proto-Nahuan
+azc-num-pro,Proto-Numic
+azc-pro,Proto-Uto-Aztecan
+azc-tak-pro,Proto-Takic
 azc-tat,Tataviam
 ber-fog,Fogaha
-ber-pro,#Proto-Berber
+ber-pro,Proto-Berber
 ber-zuw,Zuwara
 bnt-bal,Balong
 bnt-bon,Boma Nkuu
@@ -7643,74 +7643,74 @@ bnt-lal,Lala (South Africa)
 bnt-lwl,Lwel
 bnt-mpi,Mpiin
 bnt-mpu,Mpuono
-bnt-ngu-pro,#Proto-Nguni
+bnt-ngu-pro,Proto-Nguni
 bnt-phu,Phuthi
-bnt-pro,#Proto-Bantu
+bnt-pro,Proto-Bantu
 bnt-sbo,South Boma
-bnt-sts-pro,#Proto-Sotho-Tswana
-btk-pro,#Proto-Batak
-cau-abz-pro,#Proto-Abkhaz-Abaza
-cau-ava-pro,#Proto-Avaro-Andian
-cau-cir-pro,#Proto-Circassian
-cau-drg-pro,#Proto-Dargwa
-cau-lzg-pro,#Proto-Lezghian
-cau-nec-pro,#Proto-Northeast Caucasian
-cau-nkh-pro,#Proto-Nakh
-cau-nwc-pro,#Proto-Northwest Caucasian
-cau-tsz-pro,#Proto-Tsezian
+bnt-sts-pro,Proto-Sotho-Tswana
+btk-pro,Proto-Batak
+cau-abz-pro,Proto-Abkhaz-Abaza
+cau-ava-pro,Proto-Avaro-Andian
+cau-cir-pro,Proto-Circassian
+cau-drg-pro,Proto-Dargwa
+cau-lzg-pro,Proto-Lezghian
+cau-nec-pro,Proto-Northeast Caucasian
+cau-nkh-pro,Proto-Nakh
+cau-nwc-pro,Proto-Northwest Caucasian
+cau-tsz-pro,Proto-Tsezian
 cba-ata,Atanques
 cba-cat,Catío Chibcha
 cba-dor,Dorasque
 cba-dui,Duit
 cba-hue,Huetar
 cba-nut,Nutabe
-cba-pro,#Proto-Chibchan
-ccn-pro,#Proto-North Caucasian
-ccs-gzn-pro,#Proto-Georgian-Zan
-ccs-pro,#Proto-Kartvelian
-cdc-cbm-pro,#Proto-Central Chadic
-cdc-mas-pro,#Proto-Masa
-cdc-pro,#Proto-Chadic
-cdd-pro,#Proto-Caddoan
-cel-bry-pro,#Proto-Brythonic
+cba-pro,Proto-Chibchan
+ccn-pro,Proto-North Caucasian
+ccs-gzn-pro,Proto-Georgian-Zan
+ccs-pro,Proto-Kartvelian
+cdc-cbm-pro,Proto-Central Chadic
+cdc-mas-pro,Proto-Masa
+cdc-pro,Proto-Chadic
+cdd-pro,Proto-Caddoan
+cel-bry-pro,Proto-Brythonic
 cel-gal,Gallaecian
 cel-gau,Gaulish
-cel-pro,#Proto-Celtic
-chi-pro,#Proto-Chimakuan
-cmc-pro,#Proto-Chamic
+cel-pro,Proto-Celtic
+chi-pro,Proto-Chimakuan
+cmc-pro,Proto-Chamic
 cpe-mar,Maroon Spirit Language
 cpe-spp,Samoan Plantation Pidgin
 crp-gep,West Greenlandic Pidgin
 crp-mpp,Macau Pidgin Portuguese
 crp-rsn,Russenorsk
 crp-tpr,Taimyr Pidgin Russian
-csu-bba-pro,#Proto-Bongo-Bagirmi
-csu-maa-pro,#Proto-Mangbetu
-csu-pro,#Proto-Central Sudanic
-csu-sar-pro,#Proto-Sara
+csu-bba-pro,Proto-Bongo-Bagirmi
+csu-maa-pro,Proto-Mangbetu
+csu-pro,Proto-Central Sudanic
+csu-sar-pro,Proto-Sara
 ctp-san,San Juan Quiahije Chatino
 cus-ash,Ashraaf
-cus-hec-pro,#Proto-Highland East Cushitic
-cus-pro,#Proto-Cushitic
+cus-hec-pro,Proto-Highland East Cushitic
+cus-pro,Proto-Cushitic
 dmn-dam,Dama (Sierra Leone)
-dmn-mdw-pro,#Proto-Western Mande
-dmn-pro,#Proto-Mande
+dmn-mdw-pro,Proto-Western Mande
+dmn-pro,Proto-Mande
 dra-mkn,Middle Kannada
 dra-okn,Old Kannada
-dra-pro,#Proto-Dravidian
-dru-pro,#Proto-Rukai
+dra-pro,Proto-Dravidian
+dru-pro,Proto-Rukai
 egx-dem,Demotic
 elu-prk,Helu
-esx-esk-pro,#Proto-Eskimo
+esx-esk-pro,Proto-Eskimo
 esx-ink,Inuktun
 esx-inq,Inuinnaqtun
-esx-inu-pro,#Proto-Inuit
-esx-pro,#Proto-Eskimo-Aleut
+esx-inu-pro,Proto-Inuit
+esx-pro,Proto-Eskimo-Aleut
 esx-tut,Tunumiisut
-euq-pro,#Proto-Basque
-fiu-fin-pro,#Proto-Finnic
+euq-pro,Proto-Basque
+fiu-fin-pro,Proto-Finnic
 gem-bur,Burgundian
-gem-pro,#Proto-Germanic
+gem-pro,Proto-Germanic
 gme-cgo,Crimean Gothic
 gmq-bot,Westrobothnian
 gmq-gut,Gutnish
@@ -7718,13 +7718,13 @@ gmq-jmk,Jamtish
 gmq-mno,Middle Norwegian
 gmq-oda,Old Danish
 gmq-osw,Old Swedish
-gmq-pro,#Proto-Norse
+gmq-pro,Proto-Norse
 gmq-scy,Scanian
 gmw-cfr,Central Franconian
 gmw-ecg,East Central German
 gmw-gts,Gottscheerish
 gmw-jdt,Jersey Dutch
-gmw-pro,#Proto-West Germanic
+gmw-pro,Proto-West Germanic
 gmw-rfr,Rhine Franconian
 gmw-stm,Sathmar Swabian
 gmw-tsx,Transylvanian Saxon
@@ -7733,14 +7733,14 @@ gmw-zps,Zipser German
 grk-cal,Calabrian Greek
 grk-ita,Italiot Greek
 grk-mar,Mariupol Greek
-grk-pro,#Proto-Hellenic
-hmn-pro,#Proto-Hmong
-hmx-mie-pro,#Proto-Mien
-hmx-pro,#Proto-Hmong-Mien
-hyx-pro,#Proto-Armenian
-iir-nur-pro,#Proto-Nuristani
+grk-pro,Proto-Hellenic
+hmn-pro,Proto-Hmong
+hmx-mie-pro,Proto-Mien
+hmx-pro,Proto-Hmong-Mien
+hyx-pro,Proto-Armenian
+iir-nur-pro,Proto-Nuristani
 iir-pro,#Proto-Indo-Iranian
-ijo-pro,#Proto-Ijoid
+ijo-pro,Proto-Ijoid
 inc-ash,Ashokan Prakrit
 inc-cen-pro,#Proto-Central Indo-Aryan
 inc-gup,Gurjar Apabhramsa
@@ -7765,64 +7765,64 @@ inc-psc,Paisaci Prakrit
 inc-sap,Sauraseni Apabhramsa
 inc-tak,Takka Apabhramsa
 inc-vra,Vracada Apabhramsa
-ine-ana-pro,#Proto-Anatolian
-ine-bsl-pro,#Proto-Balto-Slavic
+ine-ana-pro,Proto-Anatolian
+ine-bsl-pro,Proto-Balto-Slavic
 ine-pae,Paeonian
 ine-pro,#Proto-Indo-European
-ine-toc-pro,#Proto-Tocharian
-ira-kms-pro,#Proto-Komisenian
-ira-mny-pro,#Proto-Munji-Yidgha
-ira-mpr-pro,#Proto-Medo-Parthian
-ira-pat-pro,#Proto-Pathan
-ira-pro,#Proto-Iranian
-ira-sgc-pro,#Proto-Sogdic
-ira-sgi-pro,#Proto-Sanglechi-Ishkashimi
-ira-shr-pro,#Proto-Shughni-Roshani
-ira-shy-pro,#Proto-Shughni-Yazghulami
-ira-sym-pro,#Proto-Shughni-Yazghulami-Munji
+ine-toc-pro,Proto-Tocharian
+ira-kms-pro,Proto-Komisenian
+ira-mny-pro,Proto-Munji-Yidgha
+ira-mpr-pro,Proto-Medo-Parthian
+ira-pat-pro,Proto-Pathan
+ira-pro,Proto-Iranian
+ira-sgc-pro,Proto-Sogdic
+ira-sgi-pro,Proto-Sanglechi-Ishkashimi
+ira-shr-pro,Proto-Shughni-Roshani
+ira-shy-pro,Proto-Shughni-Yazghulami
+ira-sym-pro,Proto-Shughni-Yazghulami-Munji
 ira-wnj,Vanji
-ira-zgr-pro,#Proto-Zaza-Gorani
+ira-zgr-pro,Proto-Zaza-Gorani
 iro-ere,Erie
 iro-min,Mingo
-iro-pro,#Proto-Iroquoian
+iro-pro,Proto-Iroquoian
 itc-ola,Old Latin
-itc-pro,#Proto-Italic
-jpx-pro,#Proto-Japonic
-jpx-ryu-pro,#Proto-Ryukyuan
-kar-pro,#Proto-Karen
-khi-kho-pro,#Proto-Khoe
+itc-pro,Proto-Italic
+jpx-pro,Proto-Japonic
+jpx-ryu-pro,Proto-Ryukyuan
+kar-pro,Proto-Karen
+khi-kho-pro,Proto-Khoe
 khi-kun,ǃKung
-kro-pro,#Proto-Kru
-ku-pro,#Proto-Kurdish
-map-ata-pro,#Proto-Atayalic
+kro-pro,Proto-Kru
+ku-pro,Proto-Kurdish
+map-ata-pro,Proto-Atayalic
 map-bms,Banyumasan
-map-pro,#Proto-Austronesian
-mkh-asl-pro,#Proto-Aslian
-mkh-ban-pro,#Proto-Bahnaric
-mkh-kat-pro,#Proto-Katuic
-mkh-khm-pro,#Proto-Khmuic
-mkh-kmr-pro,#Proto-Khmeric
+map-pro,Proto-Austronesian
+mkh-asl-pro,Proto-Aslian
+mkh-ban-pro,Proto-Bahnaric
+mkh-kat-pro,Proto-Katuic
+mkh-khm-pro,Proto-Khmuic
+mkh-kmr-pro,Proto-Khmeric
 mkh-mkm,Middle Khmer
 mkh-mmn,Middle Mon
-mkh-mnc-pro,#Proto-Monic
+mkh-mnc-pro,Proto-Monic
 mkh-mvi,Middle Vietnamese
 mkh-okm,Old Khmer
-mkh-pal-pro,#Proto-Palaungic
-mkh-pea-pro,#Proto-Pearic
-mkh-pkn-pro,#Proto-Pakanic
-mkh-pro,#Proto-Mon-Khmer
-mkh-vie-pro,#Proto-Vietic
-mun-pro,#Proto-Munda
+mkh-pal-pro,Proto-Palaungic
+mkh-pea-pro,Proto-Pearic
+mkh-pkn-pro,Proto-Pakanic
+mkh-pro,Proto-Mon-Khmer
+mkh-vie-pro,Proto-Vietic
+mun-pro,Proto-Munda
 myn-chl,Ch'olti'
-myn-pro,#Proto-Mayan
+myn-pro,Proto-Mayan
 nai-ala,Alazapa
 nai-bay,Bayogoula
 nai-bvy,Buena Vista Yokuts
 nai-cal,Calusa
 nai-chi,Chiquimulilla
-nai-chu-pro,#Proto-Chumash
+nai-chu-pro,Proto-Chumash
 nai-cig,Ciguayo
-nai-ckn-pro,#Proto-Chinookan
+nai-ckn-pro,Proto-Chinookan
 nai-dly,Delta Yokuts
 nai-gsy,Gashowu
 nai-guz,Guazacapán
@@ -7831,24 +7831,24 @@ nai-ipa,Ipai
 nai-jtp,Jutiapa
 nai-jum,Jumaytepeque
 nai-kat,Kathlamet
-nai-klp-pro,#Proto-Kalapuyan
+nai-klp-pro,Proto-Kalapuyan
 nai-knm,Konomihu
 nai-kry,Kings River Yokuts
 nai-kum,Kumeyaay
 nai-mac,Macoris
-nai-mdu-pro,#Proto-Maidun
-nai-miz-pro,#Proto-Mixe-Zoque
+nai-mdu-pro,Proto-Maidun
+nai-miz-pro,Proto-Mixe-Zoque
 nai-nao,Naolan
 nai-nrs,New River Shasta
 nai-nvy,Northern Valley Yokuts
 nai-okw,Okwanuchu
 nai-per,Pericú
 nai-pic,Picuris
-nai-plp-pro,#Proto-Plateau Penutian
+nai-plp-pro,Proto-Plateau Penutian
 nai-ply,Palewyami
-nai-pom-pro,#Proto-Pomo
+nai-pom-pro,Proto-Pomo
 nai-qng,Quinigua
-nai-sca-pro,#Proto-Siouan-Catawban
+nai-sca-pro,Proto-Siouan-Catawban
 nai-sin,Sinacantán
 nai-sln,Salvadoran Lenca
 nai-spt,Sahaptin
@@ -7858,89 +7858,89 @@ nai-taw,Tawasa
 nai-teq,Tequistlatec
 nai-tip,Tipai
 nai-tky,Tule-Kaweah Yokuts
-nai-tot-pro,#Proto-Totozoquean
-nai-tsi-pro,#Proto-Tsimshianic
-nai-utn-pro,#Proto-Utian
+nai-tot-pro,Proto-Totozoquean
+nai-tsi-pro,Proto-Tsimshianic
+nai-utn-pro,Proto-Utian
 nai-wai,Waikuri
 nai-yup,Yupiltepeque
 nds-de,German Low German
 nds-nl,Dutch Low Saxon
-ngf-pro,#Proto-Trans-New Guinea
-nic-bco-pro,#Proto-Benue-Congo
-nic-bod-pro,#Proto-Bantoid
-nic-eov-pro,#Proto-Eastern Oti-Volta
-nic-gns-pro,#Proto-Gurunsi
-nic-grf-pro,#Proto-Grassfields
-nic-gur-pro,#Proto-Gur
-nic-jkn-pro,#Proto-Jukunoid
-nic-lcr-pro,#Proto-Lower Cross River
-nic-ogo-pro,#Proto-Ogoni
-nic-ovo-pro,#Proto-Oti-Volta
-nic-plt-pro,#Proto-Plateau
-nic-pro,#Proto-Niger-Congo
-nic-ubg-pro,#Proto-Ubangian
-nic-ucr-pro,#Proto-Upper Cross River
-nic-vco-pro,#Proto-Volta-Congo
+ngf-pro,Proto-Trans-New Guinea
+nic-bco-pro,Proto-Benue-Congo
+nic-bod-pro,Proto-Bantoid
+nic-eov-pro,Proto-Eastern Oti-Volta
+nic-gns-pro,Proto-Gurunsi
+nic-grf-pro,Proto-Grassfields
+nic-gur-pro,Proto-Gur
+nic-jkn-pro,Proto-Jukunoid
+nic-lcr-pro,Proto-Lower Cross River
+nic-ogo-pro,Proto-Ogoni
+nic-ovo-pro,Proto-Oti-Volta
+nic-plt-pro,Proto-Plateau
+nic-pro,Proto-Niger-Congo
+nic-ubg-pro,Proto-Ubangian
+nic-ucr-pro,Proto-Upper Cross River
+nic-vco-pro,Proto-Volta-Congo
 nub-har,Haraza
-nub-pro,#Proto-Nubian
-omq-cha-pro,#Proto-Chatino
-omq-maz-pro,#Proto-Mazatec
-omq-mix-pro,#Proto-Mixtecan
-omq-mxt-pro,#Proto-Mixtec
-omq-otp-pro,#Proto-Oto-Pamean
-omq-pro,#Proto-Oto-Manguean
+nub-pro,Proto-Nubian
+omq-cha-pro,Proto-Chatino
+omq-maz-pro,Proto-Mazatec
+omq-mix-pro,Proto-Mixtecan
+omq-mxt-pro,Proto-Mixtec
+omq-otp-pro,Proto-Oto-Pamean
+omq-pro,Proto-Oto-Manguean
 omq-tel,Teposcolula Mixtec
 omq-teo,Teojomulco Chatino
-omq-tri-pro,#Proto-Trique
-omq-zap-pro,#Proto-Zapotecan
-omq-zpc-pro,#Proto-Zapotec
-omv-aro-pro,#Proto-Aroid
-omv-diz-pro,#Proto-Dizoid
-omv-pro,#Proto-Omotic
-os-pro,#Proto-Ossetic
-oto-otm-pro,#Proto-Otomi
-oto-pro,#Proto-Otomian
+omq-tri-pro,Proto-Trique
+omq-zap-pro,Proto-Zapotecan
+omq-zpc-pro,Proto-Zapotec
+omv-aro-pro,Proto-Aroid
+omv-diz-pro,Proto-Dizoid
+omv-pro,Proto-Omotic
+os-pro,Proto-Ossetic
+oto-otm-pro,Proto-Otomi
+oto-pro,Proto-Otomian
 paa-kom,Kómnzo
 paa-kwn,Kuwani
-paa-nha-pro,#Proto-North Halmahera
+paa-nha-pro,Proto-North Halmahera
 paa-nun,Nungon
 phi-din,Dinapigue Agta
-phi-kal-pro,#Proto-Kalamian
+phi-kal-pro,Proto-Kalamian
 phi-nag,Nagtipunan Agta
-phi-pro,#Proto-Philippine
+phi-pro,Proto-Philippine
 poz-abi,Abai
 poz-bal,Baliledo
-poz-btk-pro,#Proto-Bungku-Tolaki
-poz-cet-pro,#Proto-Central-Eastern Malayo-Polynesian
-poz-hce-pro,#Proto-Halmahera-Cenderawasih
-poz-lgx-pro,#Proto-Lampungic
-poz-mcm-pro,#Proto-Malayo-Chamic
-poz-mly-pro,#Proto-Malayic
-poz-msa-pro,#Proto-Malayo-Sumbawan
-poz-oce-pro,#Proto-Oceanic
-poz-pep-pro,#Proto-Eastern Polynesian
-poz-pnp-pro,#Proto-Nuclear Polynesian
-poz-pol-pro,#Proto-Polynesian
-poz-pro,#Proto-Malayo-Polynesian
-poz-ssw-pro,#Proto-South Sulawesi
-poz-sus-pro,#Proto-Sunda-Sulawesi
-poz-swa-pro,#Proto-North Sarawak
-pqe-pro,#Proto-Eastern Malayo-Polynesian
+poz-btk-pro,Proto-Bungku-Tolaki
+poz-cet-pro,Proto-Central-Eastern Malayo-Polynesian
+poz-hce-pro,Proto-Halmahera-Cenderawasih
+poz-lgx-pro,Proto-Lampungic
+poz-mcm-pro,Proto-Malayo-Chamic
+poz-mly-pro,Proto-Malayic
+poz-msa-pro,Proto-Malayo-Sumbawan
+poz-oce-pro,Proto-Oceanic
+poz-pep-pro,Proto-Eastern Polynesian
+poz-pnp-pro,Proto-Nuclear Polynesian
+poz-pol-pro,Proto-Polynesian
+poz-pro,Proto-Malayo-Polynesian
+poz-ssw-pro,Proto-South Sulawesi
+poz-sus-pro,Proto-Sunda-Sulawesi
+poz-swa-pro,Proto-North Sarawak
+pqe-pro,Proto-Eastern Malayo-Polynesian
 pra-niy,Niya Prakrit
-qfa-adm-pro,#Proto-Great Andamanese
-qfa-bet-pro,#Proto-Be-Tai
-qfa-cka-pro,#Proto-Chukotko-Kamchatkan
-qfa-hur-pro,#Proto-Hurro-Urartian
-qfa-kad-pro,#Proto-Kadu
-qfa-kms-pro,#Proto-Kam-Sui
-qfa-kor-pro,#Proto-Korean
-qfa-kra-pro,#Proto-Kra
-qfa-lic-pro,#Proto-Hlai
-qfa-onb-pro,#Proto-Be
-qfa-ong-pro,#Proto-Ongan
-qfa-tak-pro,#Proto-Kra-Dai
-qfa-yen-pro,#Proto-Yeniseian
-qfa-yuk-pro,#Proto-Yukaghir
+qfa-adm-pro,Proto-Great Andamanese
+qfa-bet-pro,Proto-Be-Tai
+qfa-cka-pro,Proto-Chukotko-Kamchatkan
+qfa-hur-pro,Proto-Hurro-Urartian
+qfa-kad-pro,Proto-Kadu
+qfa-kms-pro,Proto-Kam-Sui
+qfa-kor-pro,Proto-Korean
+qfa-kra-pro,Proto-Kra
+qfa-lic-pro,Proto-Hlai
+qfa-onb-pro,Proto-Be
+qfa-ong-pro,Proto-Ongan
+qfa-tak-pro,Proto-Kra-Dai
+qfa-yen-pro,Proto-Yeniseian
+qfa-yuk-pro,Proto-Yukaghir
 qwe-kch,Kichwa
 roa-ang,Angevin
 roa-bbn,Bourbonnais-Berrichon
@@ -7965,17 +7965,17 @@ sai-ayo,Ayomán
 sai-bae,Baenan
 sai-bag,Bagua
 sai-bet,Betoi
-sai-bor-pro,#Proto-Boran
+sai-bor-pro,Proto-Boran
 sai-cac,Cacán
 sai-caq,Caranqui
 sai-cat,Catacao
-sai-cer-pro,#Proto-Cerrado
+sai-cer-pro,Proto-Cerrado
 sai-chi,Chirino
 sai-chn,Chaná
 sai-chp,Chapacura
 sai-chr,Charrua
 sai-chu,Churuya
-sai-cje-pro,#Proto-Central Jê
+sai-cje-pro,Proto-Central Jê
 sai-cmg,Comechingon
 sai-cno,Chono
 sai-cnr,Cañari
@@ -7993,8 +7993,8 @@ sai-gay,Gayón
 sai-gmo,Guamo
 sai-gue,Güenoa
 sai-hau,Haush
-sai-hoc-pro,#Proto-Huitoto-Ocaina
-sai-jee-pro,#Proto-Jê
+sai-hoc-pro,Proto-Huitoto-Ocaina
+sai-jee-pro,Proto-Jê
 sai-jko,Jeikó
 sai-jrj,Jirajara
 sai-kat,Katembri
@@ -8011,7 +8011,7 @@ sai-mue,Muellama
 sai-muz,Muzo
 sai-mys,Maynas
 sai-nat,Natú
-sai-nje-pro,#Proto-Northern Jê
+sai-nje-pro,Proto-Northern Jê
 sai-opo,Opón
 sai-oto,Otomaco
 sai-pal,Palta
@@ -8032,7 +8032,7 @@ sai-san,Sanaviron
 sai-sap,Sapará
 sai-sec,Sechura
 sai-sin,Sinúfana
-sai-sje-pro,#Proto-Southern Jê
+sai-sje-pro,Proto-Southern Jê
 sai-tab,Tabancale
 sai-tal,Tallán
 sai-tap,Tapayuna
@@ -8042,7 +8042,7 @@ sai-tpr,Taparita
 sai-trr,Tarairiú
 sai-wai,Waitaká
 sai-way,Wayumará
-sai-wit-pro,#Proto-Witotoan
+sai-wit-pro,Proto-Witotoan
 sai-wnm,Wanham
 sai-xoc,Xocó
 sai-yao,Yao (South America)
@@ -8050,12 +8050,12 @@ sai-yar,Yarumá
 sai-yri,Yuri
 sai-yup,Yupua
 sai-yur,Yurumanguí
-sal-pro,#Proto-Salish
-sdv-daj-pro,#Proto-Daju
-sdv-eje-pro,#Proto-Eastern Jebel
-sdv-nil-pro,#Proto-Nilotic
-sdv-nyi-pro,#Proto-Nyima
-sdv-tmn-pro,#Proto-Taman
+sal-pro,Proto-Salish
+sdv-daj-pro,Proto-Daju
+sdv-eje-pro,Proto-Eastern Jebel
+sdv-nil-pro,Proto-Nilotic
+sdv-nyi-pro,Proto-Nyima
+sdv-tmn-pro,Proto-Taman
 sem-amm,Ammonite
 sem-amo,Amorite
 sem-cha,Chaha
@@ -8065,56 +8065,56 @@ sem-has,Hasaitic
 sem-him,Himyaritic
 sem-his,Hismaic
 sem-mhr,Muher
-sem-pro,#Proto-Semitic
+sem-pro,Proto-Semitic
 sem-saf,Safaitic
 sem-srb,Old South Arabian
 sem-tay,Taymanitic
 sem-tha,Thamudic
-sem-wes-pro,#Proto-West Semitic
-sio-pro,#Proto-Siouan
+sem-wes-pro,Proto-West Semitic
+sio-pro,Proto-Siouan
 sit-bok,Bokar
 sit-cha,Chairel
 sit-gkh,Gokhy
-sit-hrs-pro,#Proto-Hrusish
+sit-hrs-pro,Proto-Hrusish
 sit-jap,Japhug
-sit-kha-pro,#Proto-Kham
+sit-kha-pro,Proto-Kham
 sit-liz,Lizu
-sit-luu-pro,#Proto-Luish
+sit-luu-pro,Proto-Luish
 sit-mor,Moran
 sit-prn,Puiron
-sit-pro,#Proto-Sino-Tibetan
+sit-pro,Proto-Sino-Tibetan
 sit-sit,Situ
-sit-tan-pro,#Proto-Tani
+sit-tan-pro,Proto-Tani
 sit-tgm,Tangam
 sit-tos,Tosu
 sit-tsh,Tshobdun
 sit-zbu,Zbu
-sla-pro,#Proto-Slavic
-smi-pro,#Proto-Samic
-son-pro,#Proto-Songhay
-sqj-pro,#Proto-Albanian
-ssa-klk-pro,#Proto-Kuliak
-ssa-kom-pro,#Proto-Koman
-ssa-pro,#Proto-Nilo-Saharan
+sla-pro,Proto-Slavic
+smi-pro,Proto-Samic
+son-pro,Proto-Songhay
+sqj-pro,Proto-Albanian
+ssa-klk-pro,Proto-Kuliak
+ssa-kom-pro,Proto-Koman
+ssa-pro,Proto-Nilo-Saharan
 syd-fne,Forest Nenets
-syd-pro,#Proto-Samoyedic
-tai-pro,#Proto-Tai
-tai-swe-pro,#Proto-Southwestern Tai
-tbq-bdg-pro,#Proto-Bodo-Garo
-tbq-kuk-pro,#Proto-Kuki-Chin
-tbq-lal-pro,#Proto-Lalo
+syd-pro,Proto-Samoyedic
+tai-pro,Proto-Tai
+tai-swe-pro,Proto-Southwestern Tai
+tbq-bdg-pro,Proto-Bodo-Garo
+tbq-kuk-pro,Proto-Kuki-Chin
+tbq-lal-pro,Proto-Lalo
 tbq-laz,Laze
-tbq-lob-pro,#Proto-Lolo-Burmese
-tbq-lol-pro,#Proto-Loloish
+tbq-lob-pro,Proto-Lolo-Burmese
+tbq-lol-pro,Proto-Loloish
 tbq-ngo,Ngochang
 tbq-plg,Pai-lang
 trk-dkh,Dukhan
 trk-oat,Old Anatolian Turkish
-trk-pro,#Proto-Turkic
-tup-gua-pro,#Proto-Tupi-Guarani
+trk-pro,Proto-Turkic
+tup-gua-pro,Proto-Tupi-Guarani
 tup-kab,Kabishiana
-tup-pro,#Proto-Tupian
-tuw-pro,#Proto-Tungusic
+tup-pro,Proto-Tupian
+tuw-pro,Proto-Tungusic
 tuw-sol,Solon
 und-isa,Isaurian
 und-kas,Kassite
@@ -8123,14 +8123,14 @@ und-mmd,Mimi of Decorse
 und-mmn,Mimi of Nachtigal
 und-phi,Philistine
 und-wji,Western Jicaque
-urj-mdv-pro,#Proto-Mordvinic
-urj-prm-pro,#Proto-Permic
-urj-pro,#Proto-Uralic
-urj-ugr-pro,#Proto-Ugric
+urj-mdv-pro,Proto-Mordvinic
+urj-prm-pro,Proto-Permic
+urj-pro,Proto-Uralic
+urj-ugr-pro,Proto-Ugric
 xgn-kha,Khamnigan Mongol
 xgn-mgl,Mongghul
 xgn-mgr,Mangghuer
-xgn-pro,#Proto-Mongolic
+xgn-pro,Proto-Mongolic
 xme-ker,Kermanic
 xme-kls,Kalasuri
 xme-klt,Kilit
@@ -8138,13 +8138,13 @@ xme-mid,Middle Median
 xme-old,Old Median
 xme-ott,Old Tati
 xme-taf,Tafreshi
-xme-ttc-pro,#Proto-Tatic
-xnd-pro,#Proto-Na-Dene
-xsc-pro,#Proto-Scythian
-xsc-sak-pro,#Proto-Saka
-xsc-skw-pro,#Proto-Saka-Wakhi
-ypk-pro,#Proto-Yupik
-zhx-min-pro,#Proto-Min
+xme-ttc-pro,Proto-Tatic
+xnd-pro,Proto-Na-Dene
+xsc-pro,Proto-Scythian
+xsc-sak-pro,Proto-Saka
+xsc-skw-pro,Proto-Saka-Wakhi
+ypk-pro,Proto-Yupik
+zhx-min-pro,Proto-Min
 zhx-sht,Shaozhou Tuhua
 zhx-tai,Taishanese
 zhx-teo,Teochew
@@ -8207,7 +8207,7 @@ cop-her,Hermopolitan Coptic
 cop-lyc,Lycopolitan Coptic
 cop-old,Old Coptic
 cop-oxy,Oxyrhynchite Coptic
-cop-ply,#Proto-Lycopolitan Coptic
+cop-ply,Proto-Lycopolitan Coptic
 cop-sah,Sahidic Coptic
 egy-old,Old Egyptian
 egy-mid,Middle Egyptian
@@ -8624,17 +8624,17 @@ taq,Tamasheq
 thz,Tayert
 tmh-ght,Ghat
 trk-cmn,Common Turkic
-trk-ogz-pro,#Proto-Oghuz
+trk-ogz-pro,Proto-Oghuz
 otk-kir,Old Kirghiz
 klj-arg,Arghu
 qwm-arm,Armeno-Kipchak
 qwm-mam,Mamluk-Kipchak
 az-cls,Classical Azerbaijani
 alv-kro,Kromanti
-bat-pro,#Proto-Baltic
+bat-pro,Proto-Baltic
 es-lun,Lunfardo
 Lunfardo,Lunfardo
-fiu-pro,#Proto-Finno-Ugric
+fiu-pro,Proto-Finno-Ugric
 gem-sue,Suevic
 mkh-okm-A,Angkorian Old Khmer
 mkh-okm-P,Pre-Angkorian Old Khmer
@@ -8643,11 +8643,11 @@ Tax.,taxonomic name
 qfa-pyg,a substrate language originally spoken by the Pygmies
 pygmy,a substrate language originally spoken by the Pygmies
 tai-shz,Shangsi Zhuang
-tbq-pro,#Proto-Tibeto-Burman
+tbq-pro,Proto-Tibeto-Burman
 und-idn,Idiom Neutral
 und-tdl,Turduli
 und-tdt,Turdetani
 und-xbi,Xianbei
 und-xnu,Xiongnu
-urj-fpr-pro,#Proto-Finno-Permic
+urj-fpr-pro,Proto-Finno-Permic
 woy,Weyto

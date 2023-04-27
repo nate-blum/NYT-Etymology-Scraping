@@ -7,8 +7,16 @@ from nltk.probability import FreqDist
 from nltk.stem.snowball import EnglishStemmer
 import re
 import threading
+from time import time
+
+def add_or_set(dict, key, value):
+    if key in dict:
+        dict[key] += int(value)
+    else:
+        dict[key] = int(value)
 
 def main():
+    start = time()
     global etym_data, sns, lock
     etym_data = dict()
     sns = EnglishStemmer()
@@ -31,13 +39,14 @@ def main():
     token_counts_by_year = dict()
     with concurrent.futures.ThreadPoolExecutor(max_workers=20) as token_count_pool:
         token_count_futures = []
-        for i in range(1852, 1853):
+        for i in range(1852, 2020):
             token_counts_by_year[i] = FreqDist()
             token_count_futures.append(token_count_pool.submit(analyze_year, i))
 
         for future in as_completed(token_count_futures):
             year, token_count = future.result()
-            token_counts_by_year[year].update(token_count)
+            for token in token_count:
+                add_or_set(token_counts_by_year[year], token, token_count[token])
             token_list = list(set().union(token_list, token_count.keys()))
 
     token_origins = dict()
@@ -67,8 +76,11 @@ def main():
         writer.writeheader()
         writer.writerows(make_token_rows(token_counts_by_year, token_origins))
 
+    end = time()
+    print(end - start)
+
 def find_origins(list, i):
-    print(f"finding origins of tokens[{i * chunk_size}:{(i + 1) * chunk_size}], len: {len(list)}")
+    print(f"finding origins of tokens[{i * chunk_size}:{(i + 1) * chunk_size}]")
     origins = dict()
     for token in list:
         origin = find_origin(token)
@@ -80,7 +92,7 @@ def find_origins(list, i):
 
 def flatten(l):
     _l = l
-    while type(_l) == list and type(_l[0]) == list:
+    while type(_l) == list and len(_l) > 0 and type(_l[0]) == list:
         _l = [item for sublist in _l for item in sublist]
     return _l
 
@@ -153,7 +165,17 @@ def collect_words(article):
     tokenized_list = [wordpunct_tokenize(x) for x in 
             [article["abstract"], article["headline"]["main"], article["lead_paragraph"]]]
     word_list = filter(not_punct_or_numeric, flatten(tokenized_list))
-    return [sns.stem(x.lower()) for x in word_list]
+    return [stem(x) for x in word_list]
+
+def stem(word):
+    word = str(word)
+    if word == word.title():
+        word = sns.stem(word).capitalize()
+    elif word.isupper():
+        word = sns.stem(word).upper()
+    else:
+        word = sns.stem(word)
+    return word
 
 def make_tag(code, token):
     return f"{code}_{token}"
@@ -163,12 +185,16 @@ def find_origin(token):
     next_tag = ''
     tags = [tag]
 
-    if tag in etym_data:
+    if tag not in etym_data:
+        tag = make_tag("en", token.lower())
+        if tag not in etym_data:
+            return ''
+
+    next_tag = make_tag(etym_data[tag]['origin_lang'], etym_data[tag]['origin'])
+    while next_tag in etym_data and etym_data[next_tag]['origin'] != '' and next_tag not in tags:
+        tags.append(tag)
+        tag = next_tag
         next_tag = make_tag(etym_data[tag]['origin_lang'], etym_data[tag]['origin'])
-        while next_tag in etym_data and etym_data[next_tag]['origin'] != '' and next_tag not in tags:
-            tags.append(tag)
-            tag = next_tag
-            next_tag = make_tag(etym_data[tag]['origin_lang'], etym_data[tag]['origin'])
 
     return next_tag
 
